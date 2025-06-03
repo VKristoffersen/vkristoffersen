@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Welcome to my Github profile! I'm currently pursuing a career in academics, but I also like doing projects related to the application of machine learning in my spare time.
-I've created this profile as a way to demonstrate my portfolio, and as a reminder to keep improving. 
+Welcome to my Github profile! I'm currently pursuing a career in academics, where my field of research is within Epidemiology and Health Economics. However, in my spare time I've enjoyed diving into different projects related to the application of machine learning in various fields. I've created this profile as a way to demonstrate, and manage, my portfolio, and as a reminder to keep improving. 
 
 I wonder how you found the page? Reach out and tell me about it.
 
